@@ -1,0 +1,2 @@
+1- ¿Qué es RVM?
+Es una herramienta de líena de comandos que permite facilitar la instalación, el manejo y el trabajo con múltiples entornos de ruby desde intérpretes a los conjuntos de gemas.
