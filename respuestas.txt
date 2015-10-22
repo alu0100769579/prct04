@@ -5,3 +5,5 @@ Hello world
 => nil
 3- ¿Cuáles son las diferencias entre la ejecución del programa "Hola Mundo" con el intérprete de Ruby y el intérprete interactivo del ejercio anterior?
 Con el intérprete de Ruby sólo se muestra el resultado de la ejecución, mientras que con el intérprete interactivo (irb) se muestra cada uno de los comandos a ejecutar con su resultado.
+4- ¿Cuáles son las diferencias entre la ejecición del programa "Hola Mundo" con el intérprete interactivo y con PRY?
+Con el intérprete interactivo (irb) se muestra cada uno de los comandos a ejecutar con su resultado, mientras que con Pry sólo se muestra el resultado del comando.
